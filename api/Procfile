@@ -1,0 +1,2 @@
+primary: ./bin/litefs -config ./etc/primary.yml
+secondary: ./bin/litefs -config ./etc/secondary.yml
